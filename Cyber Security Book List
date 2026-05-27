@@ -1,1 +1,234 @@
+# 🧠 🔻 DOMAIN 1: FOUNDATIONS & SECURITY MINDSET 🟢
 
+## ⭐ CORE (START HERE)
+
+1. Cybersecurity for Beginners — Raef Meeuwisse
+2. Cybersecurity Essentials — Charles Brooks
+3. Security+ Guide to Network Security Fundamentals — Mark Ciampa
+4. Security Engineering — Ross Anderson ⭐
+5. Threat Modeling — Adam Shostack ⭐
+
+## 🧠 HUMAN + MINDSET
+
+6. Ghost in the Wires — Kevin Mitnick
+7. The Art of Invisibility — Kevin Mitnick
+8. Social Engineering: The Science of Human Hacking — Christopher Hadnagy
+
+## 🔬 ADVANCED THINKING
+
+9. The Practice of Network Security Monitoring — Richard Bejtlich
+10. How to Measure Anything in Cybersecurity Risk — Douglas Hubbard
+11. Risk-Centric Threat Modeling — Tony UcedaVelez
+
+---
+
+# 🌐 🔻 DOMAIN 2: NETWORKING
+
+12. Computer Networking: A Top-Down Approach — Kurose ⭐
+13. TCP/IP Illustrated (Vol 1) — Stevens ⭐
+14. Practical Packet Analysis — Chris Sanders
+15. Wireshark Network Analysis — Laura Chappell
+16. The TCP/IP Guide — Kozierok
+17. Network Warrior — Gary Donahue
+18. High-Performance Browser Networking — Ilya Grigorik
+
+---
+
+# 🐧 🔻 DOMAIN 3: OPERATING SYSTEMS & LINUX
+
+19. How Linux Works — Brian Ward ⭐
+20. The Linux Command Line — William Shotts ⭐
+21. Linux Basics for Hackers — OccupyTheWeb
+22. UNIX and Linux System Administration Handbook
+23. Operating Systems: Three Easy Pieces (FREE)
+24. Windows Internals — Mark Russinovich
+25. Linux Kernel Development — Robert Love
+
+---
+
+# 💻 🔻 DOMAIN 4: PROGRAMMING FOR CYBERSECURITY (FULLY UPGRADED)
+
+## 🟢 CORE LANGUAGES
+
+### 🐍 Python
+
+26. Python Crash Course — Eric Matthes
+27. Automate the Boring Stuff with Python
+28. Black Hat Python — Justin Seitz ⭐
+29. Violent Python - TJ O'Connor
+30. Serious Python — Julien Danjou
+
+---
+
+### 💻 C / C++
+
+30. The C Programming Language — Kernighan & Ritchie ⭐
+31. Hacking: The Art of Exploitation — Jon Erickson ⭐
+32. Secure Coding in C and C++ — Seacord
+
+---
+
+### 🐹 Go (RED TEAM)
+
+35. Black Hat Go — Tom Steele ⭐
+
+---
+
+### 🦀 Rust (MODERN SECURITY)
+
+36. The Rust Programming Language — Steve Klabnik ⭐
+
+---
+
+### 🧠 Assembly (REVERSE ENGINEERING)
+
+37. PC Assembly Language — Paul Carter
+38. Reverse Engineering for Beginners — Yurichev ⭐
+
+---
+
+# 🔴 🔻 DOMAIN 5: OFFENSIVE SECURITY
+
+39. Penetration Testing — Georgia Weidman ⭐
+40. The Basics of Hacking & Penetration Testing
+41. The Hacker Playbook (1–3) — Peter Kim ⭐
+42. Advanced Penetration Testing — Wil Allsopp
+43. The Pentester Blueprint — Phillip Wylie
+44. Network Penetration Testing Essentials
+45. Red Team Field Manual
+46. Blue Team Field Manual
+
+---
+
+# 🌍 🔻 DOMAIN 6: WEB SECURITY
+
+47. The Web Application Hacker’s Handbook — Stuttard ⭐
+48. Bug Bounty Bootcamp — Vickie Li ⭐
+49. Real-World Bug Hunting — Peter Yaworski
+50. OWASP Testing Guide (FREE) ⭐
+51. The Tangled Web — Michal Zalewski
+52. Web Security for Developers — Malcolm McDonald
+53. Web Application Security — Andrew Hoffman
+
+---
+
+# 🦠 🔻 DOMAIN 7: MALWARE & REVERSE ENGINEERING
+
+54. Practical Malware Analysis — Sikorski ⭐
+55. Practical Reverse Engineering — Bruce Dang
+56. Learning Malware Analysis — Monnappa
+57. Malware Analyst’s Cookbook
+58. The IDA Pro Book — Chris Eagle
+
+---
+
+# 🔐 🔻 DOMAIN 8: CRYPTOGRAPHY
+
+59. Serious Cryptography — Aumasson ⭐
+60. Understanding Cryptography — Paar
+61. Cryptography Engineering — Ferguson
+62. Applied Cryptography — Schneier
+63. Crypto101
+
+---
+
+# ☁️ 🔻 DOMAIN 9: CLOUD SECURITY
+
+64. Practical Cloud Security — Chris Dotson ⭐
+65. Cloud Security and Privacy — Tim Mather
+66. AWS Security Cookbook
+67. Azure Security Handbook
+
+---
+
+# 📱 🔻 DOMAIN 10: MOBILE SECURITY
+
+68. The Mobile Application Hacker’s Handbook ⭐
+69. Android Security Internals
+
+---
+
+# ⚔️ 🔻 DOMAIN 11: RED + BLUE TEAM
+
+70. Red Team Development and Operations
+71. The Blue Team Handbook
+72. Practical Threat Detection Engineering
+
+---
+
+# 🛰️ 🔻 DOMAIN 12: OSINT & THREAT INTELLIGENCE
+
+73. The Threat Intelligence Handbook
+74. Open Source Intelligence Techniques — Michael Bazzell ⭐
+75. OSINT Handbook
+
+---
+
+# ⚙️ 🔻 DOMAIN 13: HARDWARE / IoT
+
+76. The Hardware Hacker ⭐
+77. Practical IoT Hacking
+78. Hardware Hacking Handbook
+
+---
+
+# ⛓️ 🔻 DOMAIN 14: BLOCKCHAIN
+
+79. Mastering Bitcoin — Andreas Antonopoulos ⭐
+80. Blockchain Basics
+
+---
+
+# 🔗 🔻 DOMAIN 15: API SECURITY
+
+81. API Security in Action
+82. Hacking APIs — Corey Ball ⭐
+
+---
+
+# 🤖 🔻 DOMAIN 16: AI IN CYBERSECURITY
+
+83. Machine Learning for Absolute Beginners
+84. Hands-On Machine Learning — Aurélien Géron ⭐
+85. Pattern Recognition and Machine Learning — Bishop
+86. Machine Learning and Security — Chio ⭐
+87. AI for Cybersecurity — Leslie Sikos
+88. Data-Driven Security
+89. Applied Network Security Monitoring
+90. Adversarial Machine Learning — Biggio ⭐ 
+91. Artificial Intelligence Basics — Tom Taulli
+92. Designing Machine Learning Systems — Chip Huyen ⭐
+93. AI Engineering — Chip Huyen ⭐
+94. Building LLM Applications — Chip Huyen
+
+---
+
+# 🧪 🔻 DOMAIN 17: DIGITAL FORENSICS
+
+95. Digital Forensics and Incident Response
+96. The Art of Memory Forensics ⭐
+
+---
+
+# ⚔️ 🔻 DOMAIN 18: CYBER WARFARE
+
+97. Sandworm
+98. Countdown to Zero Day
+99. This Is How They Tell Me the World Ends
+100. Cyber War — Richard Clarke
+
+---
+
+# 🧠 ⚔️ FINAL RESULT
+
+👉 This is now:
+
+## 🔥 COMPLETE CYBERSECURITY + PROGRAMMING MASTER LIBRARY
+
+No gaps in:
+
+- Programming ✅
+- Offensive Security ✅
+- Web + Bug Bounty ✅
+- Malware + Reverse Engineering ✅
+- AI + Future Tech ✅
